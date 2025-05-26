@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This is my **SavePoint**, where all my LEVEL
 ## About Me
 I'm a passionate **coding enthusiast** and lifelong learner exploring the world of:
 - Data science 📊
-- - Data analysis 📊
+- Data analysis 📊
 - Web development 🌐
 - App development 📱
 - Artificial Intelligence 🤖
