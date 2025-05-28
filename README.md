@@ -22,7 +22,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 2. **LEVEL : Analysis of online store sales**
    - **Description**: This project analyse online store sales using the Sales Data Dataset.
    - **Tech stack**: Python, Pandas, Matplotlib, Seaborn.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/Level-2
 
 3. **SIDEQUEST : Scissor, Paper, Rock Project**
    - **Description**: My first version of Scissor, Paper, Rock.
