@@ -28,7 +28,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: My first version of Scissor, Paper, Rock.
      (More information in the repository)
    - **Tech stack**: Python, Random.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/SideQuest-1
      
 4. **LEVEL : Netflix Movies and TV Shows Dataset Analysis**
    - **Description**: This project visualize the data of Netflix using the Netflix Movies and TV Shows Dataset.
