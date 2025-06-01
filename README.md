@@ -33,7 +33,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 4. **LEVEL : Netflix Movies and TV Shows Dataset Analysis**
    - **Description**: This project visualize the data of Netflix using the Netflix Movies and TV Shows Dataset.
    - **Tech stack**: Python, Pandas, Matplotlib, Tkinter.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/Level-3
 
 5. **LEVEL : Spotify Analysis with Streamlit**
    - **Description**: This project analyze Spotify data using the Spotify Dataset.
