@@ -43,7 +43,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 6. **SIDEQUEST : Chatbot**
    - **Description**: My first version of a chatbot.
    - **Tech stack**: Python, Customtkinter.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/SideQuest-2
   
 7. **SIDEQUEST : QR CODE Maker & Reader**
    - **Description**: My first version of a QR Code maker and reader.
