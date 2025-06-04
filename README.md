@@ -38,7 +38,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 5. **LEVEL : Spotify Analysis with Streamlit**
    - **Description**: This project analyze Spotify data using the Spotify Dataset.
    - **Tech stack**: Python, Pandas, Streamlit.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/Level-4
      
 6. **SIDEQUEST : Chatbot**
    - **Description**: My first version of a chatbot.
