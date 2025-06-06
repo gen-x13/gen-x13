@@ -48,7 +48,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 7. **SIDEQUEST : QR CODE Maker & Reader**
    - **Description**: My first version of a QR Code maker and reader.
    - **Tech stack**: Python, QRCode, Pillow, OpenCV.
-   - **Live Demo / Repository**: 🔒 Locked for now
+   - **Live Demo / Repository**: https://github.com/gen-x13/SideQuest-3
 
 
 ## Contact
