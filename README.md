@@ -55,7 +55,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, Pandas, Streamlit, Reportlab, Plotly.
    - **⚠️ Note**: This is an early version — it works, and it's already useful, but it's not the final form. Regular updates will come for this free version. 
                    More features will be released soon. Stay connected.
-   - **🚀 Live App**: [Try it on Streamlit](https://gen-x13-streamlit-app-url)  
+   - **🚀 Live App**: [Try it on Streamlit](https://level-5-my-analysis-report.streamlit.app/)  
    - **📁 Repository**: [View on GitHub](https://github.com/gen-x13/Level-5)
 
 
