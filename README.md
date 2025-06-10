@@ -49,6 +49,11 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: My first version of a QR Code maker and reader.
    - **Tech stack**: Python, QRCode, Pillow, OpenCV.
    - **Live Demo / Repository**: https://github.com/gen-x13/SideQuest-3
+  
+8. **LEVEL : Sales Analysis Report**
+   - **Description**: This project analyzes and generates reports from clean datasets.
+   - **Tech stack**: Python, Pandas, Streamlit, Reportlab, IO, Plotly.
+   - **Live Demo / Repository**: 🔒 Locked for now
 
 
 ## Contact
@@ -57,7 +62,8 @@ feel free to reach out — I'm open to freelance missions (I'm just starting, bu
 
 - **Email**: genxcode.official@gmail.com
 - **Social Media**:
-          https://www.instagram.com/genxcodeofficial/
-          https://www.tiktok.com/@genxcode.official?is_from_webapp=1&sender_device=pc
-          https://youtube.com/@genxcodeofficial?feature=shared
+          - Instagram : https://www.instagram.com/genxcodeofficial/
+          - Tiktok : https://www.tiktok.com/@genxcode.official?is_from_webapp=1&sender_device=pc
+          - Youtube : https://youtube.com/@genxcodeofficial?feature=shared
+          - Ko-Fi : https://ko-fi.com/genxcodeofficial
 - **GitHub Profile**: https://github.com/gen-x13
