@@ -58,6 +58,10 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **🚀 Live App**: [Try it on Streamlit](https://level-5-my-analysis-report.streamlit.app/)  
    - **📁 Repository**: [View on GitHub](https://github.com/gen-x13/Level-5)
 
+9. **Application : Report Generator**
+   - **Description**: A PDF report generator built with Streamlit. Current version is free, with a future PRO version planned.
+   - **Tech stack**: Python, Streamlit, ReportLab, Plotly, Pandas.
+   - **Repository**: 🔒 Locked for now.
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
