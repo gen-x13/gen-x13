@@ -55,8 +55,8 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, Pandas, Streamlit, Reportlab, Plotly.
    - **⚠️ Note**: This is an early version — it works, and it's already useful, but it's not the final form. Regular updates will come for this free version. 
                    More features will be released soon. Stay connected.
-   - **🚀 Live App**: [Try it on Streamlit](https://level-5-my-analysis-report.streamlit.app/)  
-   - **📁 Repository**: [View on GitHub](https://github.com/gen-x13/Level-5)
+   - **Live App**: [Try it on Streamlit](https://level-5-my-analysis-report.streamlit.app/)  
+   - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-5)
 
 9. **Application : Report Generator**
    - **Description**: A PDF report generator built with Streamlit. Current version is free, with a future PRO version planned.
