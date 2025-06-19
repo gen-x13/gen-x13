@@ -61,7 +61,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 9. **Application : Report Generator**
    - **Description**: A PDF report generator built with Streamlit. Current version is free, with a future PRO version planned.
    - **Tech stack**: Python, Streamlit, ReportLab, Plotly, Pandas.
-   - **Repository**: 🔒 Locked for now.
+   - **Live App**: [Try it on Streamlit](https://live-report-generator.streamlit.app/)  
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
