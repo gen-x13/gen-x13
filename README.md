@@ -62,7 +62,6 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: A report generator built with Streamlit. Current version is free, with a future PRO version planned.
    - **Tech stack**: Python, Streamlit, ReportLab, Plotly, Pandas.
    - **Live App**: [Try it on Streamlit](https://live-report-generator.streamlit.app/)
-   - **Repository**: [View on GitHub](https://github.com/gen-x13/Live-App)
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
