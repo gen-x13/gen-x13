@@ -2,7 +2,7 @@
 Welcome to my portfolio repository! This is my **SavePoint**, where all my LEVELs (projects) and SideQuest's are stored and showcased.
 
 ## About Me
-I'm a passionate **coding enthusiast** and lifelong learner exploring the world of:
+I'm a passionate **self taught coder** and lifelong learner exploring the world of:
 - Data science 📊
 - Data analysis 📊
 - Web development 🌐
