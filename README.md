@@ -63,6 +63,16 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, Streamlit, ReportLab, Plotly, Pandas.
    - **Live App**: [Try it on Streamlit](https://live-report-generator.streamlit.app/)
 
+5. **LEVEL : Handwritten number recognition**
+   - **Description**: This project predicts images of handwritten numbers after user input from the MNIST dataset (first version).
+   - **Tech stack**: Python, Numpy, Matplotlib, Scikit-Learn, Customtkinter.
+   - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-6)
+     
+6. **SIDEQUEST : Chatbot 2.0**
+   - **Description**: This is a new version of my ChatBot.
+   - **Tech stack**: Python, SKLearn, Customtkinter.
+   - **Repository**: [View on GitHub](https://github.com/gen-x13/SideQuest-4)
+
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
 feel free to reach out — I'm open to freelance missions (I'm just starting, but I learn fast and dream big):
