@@ -73,6 +73,16 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, SKLearn, Customtkinter.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/SideQuest-4)
 
+7. **SIDEQUEST : Spectrum App Questionnaire**
+   - **Description**: A funny questionnaire about the type of digital user you are.
+   - **Tech stack**: Python, Streamlit, Scikit-Learn.
+   - **Link**: [Spectrum App Link](https://github.com/gen-x13/SideQuest-4)
+  
+8. **LEVEL : Tsunami & Earthquake Visualization and Prediction**
+   - **Description**: 3D Hazard Mapping, Estimation, Prediction and Early Warning.
+   - **Tech stack**: Python, Streamlit, Scikit-Learn, Pandas, Seaborn, Plotly.
+   - **Link**: [Tsunami & Earthquake Link](https://github.com/gen-x13/SideQuest-4)
+
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
 feel free to reach out — I'm open to freelance missions (I'm just starting, but I learn fast and dream big):
