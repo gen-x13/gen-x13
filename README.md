@@ -82,6 +82,11 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: 3D Hazard Mapping, Estimation, Prediction and Early Warning.
    - **Tech stack**: Python, Streamlit, Scikit-Learn, Pandas, Seaborn, Plotly.
    - **Link**: [Tsunami & Earthquake Link](https://worldoceanhazard.streamlit.app/) (fixing an issue about it)
+  
+9. **LEVEL : Reinforcement Learning**
+   - **Description**: Learning and practicing how RL works.
+   - **Tech stack**: Python, Gymnasium, Numpy, Logging, Matplotlib, Random.
+   - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-8)
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
