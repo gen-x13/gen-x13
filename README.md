@@ -87,6 +87,11 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: Learning and practicing how RL works.
    - **Tech stack**: Python, Gymnasium, Numpy, Logging, Matplotlib, Random.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-8)
+  
+## Skills
+- Languages: Python
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit, Plotly
+- Areas: Data Analysis, ML, AI, Web, App Dev & Game Dev
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
@@ -97,7 +102,8 @@ feel free to reach out — I'm open to freelance missions (I'm just starting, bu
           - Instagram : https://www.instagram.com/genxcodeofficial/
           - Tiktok : https://www.tiktok.com/@genxcode.official?is_from_webapp=1&sender_device=pc
           - Youtube : https://youtube.com/@genxcodeofficial?feature=shared
-          - Ko-Fi : https://ko-fi.com/genxcodeofficial
+          - Ko-Fi Blog : https://ko-fi.com/genxcodeofficial
 - **GitHub Profile**: https://github.com/gen-x13
 
 If you want to support me, you can make a small donation here : [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P61FJELG)
+
