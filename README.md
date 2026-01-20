@@ -82,6 +82,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: Learning and practicing how RL works.
    - **Tech stack**: Python, Gymnasium, Numpy, Logging, Matplotlib, Random.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-8)
+   - **Bilingual Blogs (FR/EN)** : [Reinforcemant Learning Part 1](https://ko-fi.com/post/Reinforcement-Learning-Apprentissage-par-renforc-L4L41QHV3T) & [Reinforcement Learning Part 2](https://ko-fi.com/post/Reinforcement-Learning-Part-2-Apprentissage-par-A0A61QVPR1)
   
 ## Skills
 - Languages: Python
