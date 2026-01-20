@@ -76,7 +76,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
 7. **LEVEL : Tsunami & Earthquake Visualization and Prediction**
    - **Description**: 3D Hazard Mapping, Estimation, Prediction and Early Warning.
    - **Tech stack**: Python, Streamlit, Scikit-Learn, Pandas, Seaborn, Plotly.
-   - **Link**: [Tsunami & Earthquake Link](https://worldoceanhazard.streamlit.app/) (fixing an issue about it)
+   - **Link**: [Tsunami & Earthquake Link](https://worldoceanhazard.streamlit.app/) (work in progress, you can try it now)
   
 8. **LEVEL : Reinforcement Learning**
    - **Description**: Learning and practicing how RL works.
