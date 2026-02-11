@@ -103,10 +103,15 @@ feel free to reach out — I'm open to freelance missions (I'm just starting, bu
 
 - **Email**: genxcode.official@gmail.com
 - **Social Media**:
+          
           - Instagram : https://www.instagram.com/genxcodeofficial/
+          
           - Tiktok : https://www.tiktok.com/@genxcode.official?is_from_webapp=1&sender_device=pc
+          
           - Youtube : https://youtube.com/@genxcodeofficial?feature=shared
+          
           - Ko-Fi Blog : https://ko-fi.com/genxcodeofficial
+          
 - **GitHub Profile**: https://github.com/gen-x13
 
 If you want to support me, you can make a small donation here : [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P61FJELG)
