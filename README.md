@@ -84,11 +84,18 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, Gymnasium, Numpy, Logging, Matplotlib, Random.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-8)
    - **Bilingual Blogs (FR/EN)** : [Reinforcemant Learning Part 1](https://ko-fi.com/post/Reinforcement-Learning-Apprentissage-par-renforc-L4L41QHV3T) & [Reinforcement Learning Part 2](https://ko-fi.com/post/Reinforcement-Learning-Part-2-Apprentissage-par-A0A61QVPR1)
+
+9. **LEVEL : BirdSong Clustering Example**
+   - **Description**: Learning how clustering works using birdsongs audios.
+   - **Tech stack**: Python, Pandas, Streamlit, Scikit-learn, Librosa, Requests.
+   - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-9)
+   - **Link**: [BirdSong Clustering Link](https://worldoceanhazard.streamlit.app/) (work in progress, you can try it now)
+   - **Bilingual Blog (FR/EN)** : [BirdSong Clustering Bilingual Blog]() (wait for bloggy friday)
   
 ## Skills
 - Languages: Python
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit, Plotly, Scipy
-- Areas: Data Analysis, ML, AI, Web, App Dev & Game Dev
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit, Plotly, Scipy & Librosa
+- Areas: Data Analysis, Data Science, ML, AI, Web, App Dev & Game Dev
 
 ## Contact
 If you want to collaborate, hire a curious mind, or simply ask a question, 
