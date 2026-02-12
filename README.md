@@ -89,7 +89,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Description**: Learning how clustering works using birdsongs audios.
    - **Tech stack**: Python, Pandas, Streamlit, Scikit-learn, Librosa, Requests.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-9)
-   - **Link**: [BirdSong Clustering Link](https://worldoceanhazard.streamlit.app/) (work in progress, you can try it now)
+   - **Link**: [BirdSong Clustering Link](https://birdsongsandmusics.streamlit.app/) (work in progress, you can try it now)
    - **Bilingual Blog (FR/EN)** : [BirdSong Clustering Bilingual Blog]() (wait for bloggy friday)
   
 ## Skills
