@@ -90,7 +90,7 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Tech stack**: Python, Pandas, Streamlit, Scikit-learn, Librosa, Requests.
    - **Repository**: [View on GitHub](https://github.com/gen-x13/Level-9)
    - **Link**: [BirdSong Clustering Link](https://birdsongsandmusics.streamlit.app/) (work in progress, you can try it now)
-   - **Bilingual Blog (FR/EN)** : [BirdSong Clustering Bilingual Blog]() (wait for bloggy friday)
+   - **Bilingual Blog (FR/EN)** : [BirdSong Clustering Bilingual Blog](https://ko-fi.com/post/Clustering-BirdSongs-Project-Clustering-Chant-d-I3I61U135S)
   
 ## Skills
 - Languages: Python
