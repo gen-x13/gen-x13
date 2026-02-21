@@ -93,9 +93,10 @@ Here are some of my featured projects (LEVELs & SIDEQUESTs):
    - **Bilingual Blog (FR/EN)** : [BirdSong Clustering Bilingual Blog](https://ko-fi.com/post/Clustering-BirdSongs-Project-Clustering-Chant-d-I3I61U135S)
   
 ## Skills
-- Languages: Python
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit, Plotly, Scipy & Librosa
-- Areas: Data Analysis, Data Science, ML, AI, Web, App Dev & Game Dev
+
+**Languages:** Python  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit, Plotly, Scipy, Librosa  
+**Domains:** Data Analysis, Data Science, ML, AI, Web/App/Game Dev
 
 ## Contact / Freelance
 
