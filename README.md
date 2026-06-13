@@ -58,7 +58,7 @@
 <tr>
 <td align="center">
 
-### BirdSong Clustering : Clustering birds based on their audios
+### BirdSong Clustering : Clustering birds based on their audio recordings
 
 <img src="https://storage.googleapis.com/s4a-prod-share-preview/default/st_app_screenshot_image/cc89c9f7-568e-4ec8-a4da-eba55e62a858/Raw_App_Screenshot.png?nf_resize=smartcrop&w=480&h=260"/>
 <br>
@@ -76,15 +76,6 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-### Stanford RNA F2 (2026)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7d9XwgTqP3IwcZhWoBcXQj9XK2nhIdpIlVg&s" width="250"/>
-
-#### No successful submissions
-
-</td>
 
 <td align="center" width="50%">
 
@@ -92,7 +83,7 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMJ5pZePOgBOPonxESrvSu8xxIOGkoP9JJQ&s" width="250"/>
 
-#### Ranked 3604 | Actual Score : 0.66818
+#### Ranked 3604 | Best Score : 0.66818
 
 </td>
 </tr>
@@ -110,7 +101,7 @@
     <a href="https://discord.gg/5kMFbUBywN">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-    <a href="mailto:genxcode.official@gmail.com@gmail.com">
+    <a href="mailto:genxcode.official@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.instagram.com/genxcode.official">
