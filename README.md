@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1200ff,50:6c00ff,100:bb00ff&text=GenXCode&textBg=false&fontColor=Black&animation=fadeIn&desc=Genix,%20%20french%20woman%20in%20data%20science&descAlign=50&descAlignY=53&descSize=15&fontAlignY=37>
+  <img src=https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1200ff,50:6c00ff,100:bb00ff&text=GenXCode&textBg=false&fontColor=Black&animation=fadeIn&desc=Genix,%20%20french%20developer%20in%20data%20science&descAlign=50&descAlignY=53&descSize=15&fontAlignY=37>
 </p>
 
 <p align="center">
